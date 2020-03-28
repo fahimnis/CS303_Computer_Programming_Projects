@@ -1,5 +1,5 @@
 #  File: DayOfTheWeek.py
-#  Description: HW6
+#  Description: Takes date from user and returns day of the week
 #  Student's Name:Fahim N Islam
 #  Student's UT EID: fni66
 #  Course Name: CS 303E 
